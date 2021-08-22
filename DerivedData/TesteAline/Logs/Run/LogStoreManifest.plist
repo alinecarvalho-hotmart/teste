@@ -720,6 +720,40 @@
 			<key>uniqueIdentifier</key>
 			<string>E88BE131-9A10-46A9-835B-C62305EA6618</string>
 		</dict>
+		<key>EAE32BA0-FEB9-42FC-910C-2247EE5DBA58</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EAE32BA0-FEB9-42FC-910C-2247EE5DBA58.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TesteAline project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TesteAline</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TesteAline</string>
+			<key>timeStartedRecording</key>
+			<real>651342890.66943502</real>
+			<key>timeStoppedRecording</key>
+			<real>651342902.41501701</real>
+			<key>title</key>
+			<string>Run TesteAline</string>
+			<key>uniqueIdentifier</key>
+			<string>EAE32BA0-FEB9-42FC-910C-2247EE5DBA58</string>
+		</dict>
 		<key>ED34D675-13F3-4954-BD1B-7481BEE2310C</key>
 		<dict>
 			<key>className</key>

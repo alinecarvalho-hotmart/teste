@@ -414,6 +414,40 @@
 			<key>uniqueIdentifier</key>
 			<string>59DC5F23-460D-49AA-ADE9-DD5F60868298</string>
 		</dict>
+		<key>5A5FA993-5205-4F56-87C9-4FBD254D09CC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A5FA993-5205-4F56-87C9-4FBD254D09CC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TesteAline project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TesteAline</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TesteAline</string>
+			<key>timeStartedRecording</key>
+			<real>651342887.18340898</real>
+			<key>timeStoppedRecording</key>
+			<real>651342890.66430295</real>
+			<key>title</key>
+			<string>Build TesteAline</string>
+			<key>uniqueIdentifier</key>
+			<string>5A5FA993-5205-4F56-87C9-4FBD254D09CC</string>
+		</dict>
 		<key>66678612-9138-4CA1-9BA8-75E0F243FBBE</key>
 		<dict>
 			<key>className</key>

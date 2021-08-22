@@ -1,10 +1,10 @@
 version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
 options: "5a40297739ae5a47f1851b04c30119aa"
-build_time: [1629648738, 341493000]
+build_time: [1629650088, 556003000]
 inputs:
   "/Users/aline.carvalho/Documents/TesteAline/TesteAline/EventViewController.swift": [1629646384, 879363812]
   "/Users/aline.carvalho/Documents/TesteAline/TesteAline/AppDelegate.swift": [1629640132, 351591753]
-  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/Network.swift": [1629645959, 274639461]
+  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/Network.swift": [1629650087, 159491810]
   "/Users/aline.carvalho/Documents/TesteAline/TesteAline/EventModel.swift": [1629648639, 937819536]
   "/Users/aline.carvalho/Documents/TesteAline/TesteAline/Request.swift": [1629648738, 277847417]
   "/Users/aline.carvalho/Documents/TesteAline/TesteAline/EventViewModel.swift": [1629648639, 923050110]
