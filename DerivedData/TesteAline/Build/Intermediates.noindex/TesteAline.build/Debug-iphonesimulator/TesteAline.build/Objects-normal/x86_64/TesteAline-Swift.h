@@ -222,10 +222,24 @@ SWIFT_CLASS("_TtC10TesteAline11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UITableView;
+@class UILabel;
 @class NSString;
 @class NSBundle;
 @class NSCoder;
+
+SWIFT_CLASS("_TtC10TesteAline25EventDetailViewController")
+@interface EventDetailViewController : UIViewController
+@property (nonatomic, weak) IBOutlet UILabel * _Nullable eventDate;
+@property (nonatomic, weak) IBOutlet UILabel * _Nullable eventTitle;
+@property (nonatomic, weak) IBOutlet UILabel * _Nullable eventDescription;
+@property (nonatomic, weak) IBOutlet UILabel * _Nullable eventPrice;
+- (void)viewWillAppear:(BOOL)animated;
+- (void)viewDidLoad;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UITableView;
 
 SWIFT_CLASS("_TtC10TesteAline19EventViewController")
 @interface EventViewController : UIViewController <UITableViewDelegate>
@@ -241,6 +255,7 @@ SWIFT_CLASS("_TtC10TesteAline19EventViewController")
 @interface EventViewController (SWIFT_EXTENSION(TesteAline)) <UITabBarDelegate, UITableViewDataSource>
 - (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
 - (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
 @end
 
 

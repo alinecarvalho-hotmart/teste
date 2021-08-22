@@ -12,7 +12,7 @@ class EventViewController: UIViewController, UITableViewDelegate {
 
     @IBOutlet weak var eventTableView: UITableView!
     
-    var viewModel = EventViewModel()
+    let viewModel = EventViewModel()
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,7 +21,7 @@ class EventViewController: UIViewController, UITableViewDelegate {
         creatListEvent()
     }
     
-    func creatListEvent() {
+    private func creatListEvent() {
         viewModel.execute(view: eventTableView)
     }
    
@@ -41,5 +41,9 @@ extension EventViewController: UITabBarDelegate, UITableViewDataSource {
         return cell
     }
     
-    
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        let cell = viewModel.eventList[indexPath.row]
+        let id = cell.id
+        performSegue(withIdentifier: "eventDetail", sender: nil)
+    }
 }
