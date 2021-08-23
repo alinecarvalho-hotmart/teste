@@ -1,12 +1,15 @@
 version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
 options: "5a40297739ae5a47f1851b04c30119aa"
-build_time: [1629667524, 25679000]
+build_time: [1629743790, 914346000]
 inputs:
-  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/EventViewController.swift": [1629666996, 636087624]
+  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/View/EventViewController.swift": [1629734216, 70685438]
+  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/ViewModel/UserViewModel.swift": [1629743790, 810321829]
+  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/Request/UserRequest.swift": [1629743331, 602405226]
   "/Users/aline.carvalho/Documents/TesteAline/TesteAline/AppDelegate.swift": [1629640132, 351591706]
-  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/Network.swift": [1629655339, 677452371]
-  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/EventModel.swift": [1629648639, 937819481]
-  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/Request.swift": [1629664173, 209813115]
-  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/EventViewModel.swift": [1629665123, 193714999]
-  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/EventDetailViewController.swift": [1629667523, 896004887]
+  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/Request/Network.swift": [1629742746, 84496383]
+  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/Model/EventModel.swift": [1629648639, 937819481]
+  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/Request/EventRequest.swift": [1629739916, 670615145]
+  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/ViewModel/EventViewModel.swift": [1629739916, 741428875]
+  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/View/EventDetailViewController.swift": [1629743790, 827000559]
+  "/Users/aline.carvalho/Documents/TesteAline/TesteAline/Model/UserModel.swift": [1629736997, 3308963]
   "/Users/aline.carvalho/Documents/TesteAline/TesteAline/SceneDelegate.swift": [1629640132, 364601493]

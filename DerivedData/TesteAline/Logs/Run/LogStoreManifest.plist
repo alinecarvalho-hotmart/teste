@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>080A6D8C-5EF1-44BC-8653-F9F023DFDC2F</key>
+		<key>0C4D593F-C516-426D-8DDB-1E27008B0791</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>080A6D8C-5EF1-44BC-8653-F9F023DFDC2F.xcactivitylog</string>
+			<string>0C4D593F-C516-426D-8DDB-1E27008B0791.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651353412.199067</real>
+			<real>651425553.26529896</real>
 			<key>timeStoppedRecording</key>
-			<real>651353434.312886</real>
+			<real>651425789.92393196</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>080A6D8C-5EF1-44BC-8653-F9F023DFDC2F</string>
+			<string>0C4D593F-C516-426D-8DDB-1E27008B0791</string>
 		</dict>
-		<key>08E90250-BB40-49DE-9E43-F8050BB6738D</key>
+		<key>1196D1A2-F34F-4C81-9B9C-CC2B40E4CCE9</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>08E90250-BB40-49DE-9E43-F8050BB6738D.xcactivitylog</string>
+			<string>1196D1A2-F34F-4C81-9B9C-CC2B40E4CCE9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651348162.24056602</real>
+			<real>651425129.01278496</real>
 			<key>timeStoppedRecording</key>
-			<real>651348255.40655899</real>
+			<real>651425145.02165902</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>08E90250-BB40-49DE-9E43-F8050BB6738D</string>
+			<string>1196D1A2-F34F-4C81-9B9C-CC2B40E4CCE9</string>
 		</dict>
-		<key>08F221C1-DAAE-4A63-B80C-56925B5944CD</key>
+		<key>190B008B-B135-44B5-AE54-149D1A14A8D1</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>08F221C1-DAAE-4A63-B80C-56925B5944CD.xcactivitylog</string>
+			<string>190B008B-B135-44B5-AE54-149D1A14A8D1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651360203.14848697</real>
+			<real>651425239.125</real>
 			<key>timeStoppedRecording</key>
-			<real>651360226.35138702</real>
+			<real>651425254.565328</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>08F221C1-DAAE-4A63-B80C-56925B5944CD</string>
+			<string>190B008B-B135-44B5-AE54-149D1A14A8D1</string>
 		</dict>
-		<key>0D374A21-9EF4-42AB-9DE2-FCD189749030</key>
+		<key>205D4358-50EF-4CF4-A067-2F97E3945FC6</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0D374A21-9EF4-42AB-9DE2-FCD189749030.xcactivitylog</string>
+			<string>205D4358-50EF-4CF4-A067-2F97E3945FC6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +134,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651352089.80650401</real>
+			<real>651425339.09975302</real>
 			<key>timeStoppedRecording</key>
-			<real>651352127.26962399</real>
+			<real>651425349.58140802</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>0D374A21-9EF4-42AB-9DE2-FCD189749030</string>
+			<string>205D4358-50EF-4CF4-A067-2F97E3945FC6</string>
 		</dict>
-		<key>293645CA-5883-4AFD-8528-5ABB219C9DE7</key>
+		<key>22C51F3B-C627-48A8-9A72-4058B121131C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -151,7 +151,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>293645CA-5883-4AFD-8528-5ABB219C9DE7.xcactivitylog</string>
+			<string>22C51F3B-C627-48A8-9A72-4058B121131C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +168,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651356512.78261101</real>
+			<real>651436592.01930797</real>
 			<key>timeStoppedRecording</key>
-			<real>651356542.71295595</real>
+			<real>651436620.07063401</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>293645CA-5883-4AFD-8528-5ABB219C9DE7</string>
+			<string>22C51F3B-C627-48A8-9A72-4058B121131C</string>
 		</dict>
-		<key>2A59F223-B400-47F2-973E-B9E3E23F1779</key>
+		<key>2B56298F-AD41-4993-9D4F-FBC64CC218BA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -185,7 +185,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2A59F223-B400-47F2-973E-B9E3E23F1779.xcactivitylog</string>
+			<string>2B56298F-AD41-4993-9D4F-FBC64CC218BA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +202,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651345171.38549304</real>
+			<real>651433558.79818106</real>
 			<key>timeStoppedRecording</key>
-			<real>651345181.90879202</real>
+			<real>651433591.20204198</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>2A59F223-B400-47F2-973E-B9E3E23F1779</string>
+			<string>2B56298F-AD41-4993-9D4F-FBC64CC218BA</string>
 		</dict>
-		<key>33F0728F-1B49-4467-8ACB-CA6C626B9E03</key>
+		<key>3B70F3A1-5ACB-49FD-A030-740E8763661E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -219,7 +219,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>33F0728F-1B49-4467-8ACB-CA6C626B9E03.xcactivitylog</string>
+			<string>3B70F3A1-5ACB-49FD-A030-740E8763661E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +236,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651357004.54972994</real>
+			<real>651423374.78847694</real>
 			<key>timeStoppedRecording</key>
-			<real>651357014.58812594</real>
+			<real>651423384.51880002</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>33F0728F-1B49-4467-8ACB-CA6C626B9E03</string>
+			<string>3B70F3A1-5ACB-49FD-A030-740E8763661E</string>
 		</dict>
-		<key>34AC56DA-379D-446E-9EF3-5771A8EBCAE6</key>
+		<key>422D8005-462D-4E95-BE0A-381E5B0FEAA5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -253,7 +253,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>34AC56DA-379D-446E-9EF3-5771A8EBCAE6.xcactivitylog</string>
+			<string>422D8005-462D-4E95-BE0A-381E5B0FEAA5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,15 +270,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651343149.38776803</real>
+			<real>651423282.83447897</real>
 			<key>timeStoppedRecording</key>
-			<real>651343165.21357298</real>
+			<real>651423291.391518</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>34AC56DA-379D-446E-9EF3-5771A8EBCAE6</string>
+			<string>422D8005-462D-4E95-BE0A-381E5B0FEAA5</string>
 		</dict>
-		<key>36E0A092-5343-4552-B2BA-F2CA79169A07</key>
+		<key>4563F884-35C2-47DA-AB62-8D68B4FAB565</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -287,7 +287,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>36E0A092-5343-4552-B2BA-F2CA79169A07.xcactivitylog</string>
+			<string>4563F884-35C2-47DA-AB62-8D68B4FAB565.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +304,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651359480.34970403</real>
+			<real>651424460.41384804</real>
 			<key>timeStoppedRecording</key>
-			<real>651359505.10721898</real>
+			<real>651424475.99350595</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>36E0A092-5343-4552-B2BA-F2CA79169A07</string>
+			<string>4563F884-35C2-47DA-AB62-8D68B4FAB565</string>
 		</dict>
-		<key>39C0C562-E38A-4017-B68A-12753D6C3038</key>
+		<key>46C9E48C-4948-487D-A897-B7F1A1944671</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -321,7 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>39C0C562-E38A-4017-B68A-12753D6C3038.xcactivitylog</string>
+			<string>46C9E48C-4948-487D-A897-B7F1A1944671.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,15 +338,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651345657.39117801</real>
+			<real>651436977.19645405</real>
 			<key>timeStoppedRecording</key>
-			<real>651345667.37141705</real>
+			<real>651436995.32375002</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>39C0C562-E38A-4017-B68A-12753D6C3038</string>
+			<string>46C9E48C-4948-487D-A897-B7F1A1944671</string>
 		</dict>
-		<key>3D875DF3-4ACA-4235-893F-FDC44763D602</key>
+		<key>48F7CED3-CAB9-4EA1-9132-F0C686BA1031</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -355,7 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3D875DF3-4ACA-4235-893F-FDC44763D602.xcactivitylog</string>
+			<string>48F7CED3-CAB9-4EA1-9132-F0C686BA1031.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -372,15 +372,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651357017.11494398</real>
+			<real>651436275.74003601</real>
 			<key>timeStoppedRecording</key>
-			<real>651357037.13872099</real>
+			<real>651436317.21923602</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>3D875DF3-4ACA-4235-893F-FDC44763D602</string>
+			<string>48F7CED3-CAB9-4EA1-9132-F0C686BA1031</string>
 		</dict>
-		<key>3D8D84C8-2061-4564-A46D-D1490AA7E146</key>
+		<key>56FE7DB4-DD2C-4FCA-80A7-5B495A1AF129</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -389,7 +389,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3D8D84C8-2061-4564-A46D-D1490AA7E146.xcactivitylog</string>
+			<string>56FE7DB4-DD2C-4FCA-80A7-5B495A1AF129.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -406,15 +406,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651359227.41952097</real>
+			<real>651424405.59689403</real>
 			<key>timeStoppedRecording</key>
-			<real>651359235.60506499</real>
+			<real>651424426.75410497</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>3D8D84C8-2061-4564-A46D-D1490AA7E146</string>
+			<string>56FE7DB4-DD2C-4FCA-80A7-5B495A1AF129</string>
 		</dict>
-		<key>3DA21F26-861D-4502-96AD-AF60035B0C85</key>
+		<key>5A4E317D-D600-419A-9FB8-5C0138B5C4C1</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -423,7 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3DA21F26-861D-4502-96AD-AF60035B0C85.xcactivitylog</string>
+			<string>5A4E317D-D600-419A-9FB8-5C0138B5C4C1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -440,15 +440,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651344523.71357095</real>
+			<real>651425446.72730005</real>
 			<key>timeStoppedRecording</key>
-			<real>651344803.69366002</real>
+			<real>651425460.19941103</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>3DA21F26-861D-4502-96AD-AF60035B0C85</string>
+			<string>5A4E317D-D600-419A-9FB8-5C0138B5C4C1</string>
 		</dict>
-		<key>42DF8463-7FDD-4AFD-9AC8-F6E486E8F52F</key>
+		<key>6497ACB1-C776-4531-B03D-93BD44941C52</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -457,7 +457,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>42DF8463-7FDD-4AFD-9AC8-F6E486E8F52F.xcactivitylog</string>
+			<string>6497ACB1-C776-4531-B03D-93BD44941C52.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -474,15 +474,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651360128.36306906</real>
+			<real>651425872.11665106</real>
 			<key>timeStoppedRecording</key>
-			<real>651360145.65531194</real>
+			<real>651425882.455549</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>42DF8463-7FDD-4AFD-9AC8-F6E486E8F52F</string>
+			<string>6497ACB1-C776-4531-B03D-93BD44941C52</string>
 		</dict>
-		<key>4361B24F-D5B5-4E10-9A0C-11E46FA612FE</key>
+		<key>661E5DC7-B1A5-4779-B3C3-BCBC591465D9</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -491,7 +491,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>4361B24F-D5B5-4E10-9A0C-11E46FA612FE.xcactivitylog</string>
+			<string>661E5DC7-B1A5-4779-B3C3-BCBC591465D9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -508,15 +508,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651354414.43989599</real>
+			<real>651425897.36780798</real>
 			<key>timeStoppedRecording</key>
-			<real>651355796.30833602</real>
+			<real>651425907.86775506</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>4361B24F-D5B5-4E10-9A0C-11E46FA612FE</string>
+			<string>661E5DC7-B1A5-4779-B3C3-BCBC591465D9</string>
 		</dict>
-		<key>5977A204-401E-4214-8F7B-F809DF43213B</key>
+		<key>672E9260-0EEA-4683-B7B7-B8F7BB355EA9</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -525,7 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>5977A204-401E-4214-8F7B-F809DF43213B.xcactivitylog</string>
+			<string>672E9260-0EEA-4683-B7B7-B8F7BB355EA9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +542,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651348546.66558194</real>
+			<real>651423299.60598695</real>
 			<key>timeStoppedRecording</key>
-			<real>651348557.75788903</real>
+			<real>651423330.73023796</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>5977A204-401E-4214-8F7B-F809DF43213B</string>
+			<string>672E9260-0EEA-4683-B7B7-B8F7BB355EA9</string>
 		</dict>
-		<key>69BDB8D5-7B7E-486A-8720-D6C2ED02FAF8</key>
+		<key>6A410A8F-1228-4F76-B140-BD09030E8FB7</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -559,7 +559,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>69BDB8D5-7B7E-486A-8720-D6C2ED02FAF8.xcactivitylog</string>
+			<string>6A410A8F-1228-4F76-B140-BD09030E8FB7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -576,15 +576,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651360359.98731506</real>
+			<real>651425509.437006</real>
 			<key>timeStoppedRecording</key>
-			<real>651360372.76077104</real>
+			<real>651425551.775877</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>69BDB8D5-7B7E-486A-8720-D6C2ED02FAF8</string>
+			<string>6A410A8F-1228-4F76-B140-BD09030E8FB7</string>
 		</dict>
-		<key>7595EEC0-E4CA-462C-A064-14C301F16370</key>
+		<key>7B3D76E0-26EF-49D4-933D-4ED225E824AA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -593,7 +593,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7595EEC0-E4CA-462C-A064-14C301F16370.xcactivitylog</string>
+			<string>7B3D76E0-26EF-49D4-933D-4ED225E824AA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -610,15 +610,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651359461.71972001</real>
+			<real>651427663.75142097</real>
 			<key>timeStoppedRecording</key>
-			<real>651359472.10255098</real>
+			<real>651427682.77989197</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>7595EEC0-E4CA-462C-A064-14C301F16370</string>
+			<string>7B3D76E0-26EF-49D4-933D-4ED225E824AA</string>
 		</dict>
-		<key>79726617-839A-43A3-AAB0-44AAE5238227</key>
+		<key>7B4042E2-5906-42BE-B56A-F8740D20D788</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -627,7 +627,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>79726617-839A-43A3-AAB0-44AAE5238227.xcactivitylog</string>
+			<string>7B4042E2-5906-42BE-B56A-F8740D20D788.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -644,15 +644,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651356570.83401799</real>
+			<real>651436185.24027896</real>
 			<key>timeStoppedRecording</key>
-			<real>651356627.02805495</real>
+			<real>651436237.342466</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>79726617-839A-43A3-AAB0-44AAE5238227</string>
+			<string>7B4042E2-5906-42BE-B56A-F8740D20D788</string>
 		</dict>
-		<key>8249CD48-D3A9-46FC-869C-16DEBDFE3629</key>
+		<key>7FD7ACE2-32AC-436A-B18F-1A02AD25FED6</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -661,7 +661,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>8249CD48-D3A9-46FC-869C-16DEBDFE3629.xcactivitylog</string>
+			<string>7FD7ACE2-32AC-436A-B18F-1A02AD25FED6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -678,15 +678,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651359505.69072294</real>
+			<real>651425915.93145895</real>
 			<key>timeStoppedRecording</key>
-			<real>651359548.015064</real>
+			<real>651425942.82011294</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>8249CD48-D3A9-46FC-869C-16DEBDFE3629</string>
+			<string>7FD7ACE2-32AC-436A-B18F-1A02AD25FED6</string>
 		</dict>
-		<key>934E2E1C-AE5D-4C99-AB04-8D104474F2B9</key>
+		<key>8114845B-741D-4216-980F-C98F6A712B54</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -695,7 +695,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>934E2E1C-AE5D-4C99-AB04-8D104474F2B9.xcactivitylog</string>
+			<string>8114845B-741D-4216-980F-C98F6A712B54.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -712,15 +712,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651348143.32313597</real>
+			<real>651429592.82615697</real>
 			<key>timeStoppedRecording</key>
-			<real>651348156.528386</real>
+			<real>651429610.50575101</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>934E2E1C-AE5D-4C99-AB04-8D104474F2B9</string>
+			<string>8114845B-741D-4216-980F-C98F6A712B54</string>
 		</dict>
-		<key>9E31E534-6440-41B2-8811-2773C48DC340</key>
+		<key>83669719-EAEC-49BF-97E5-4C7E3B17F93E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -729,7 +729,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>9E31E534-6440-41B2-8811-2773C48DC340.xcactivitylog</string>
+			<string>83669719-EAEC-49BF-97E5-4C7E3B17F93E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -746,15 +746,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651344854.73435497</real>
+			<real>651418512.28989804</real>
 			<key>timeStoppedRecording</key>
-			<real>651344919.64388704</real>
+			<real>651418541.85157502</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>9E31E534-6440-41B2-8811-2773C48DC340</string>
+			<string>83669719-EAEC-49BF-97E5-4C7E3B17F93E</string>
 		</dict>
-		<key>AD371EFF-0A3A-4720-93EB-91EC66F318A9</key>
+		<key>8B99EEB8-363B-4142-A9F2-1CCA21A43E77</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -763,7 +763,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>AD371EFF-0A3A-4720-93EB-91EC66F318A9.xcactivitylog</string>
+			<string>8B99EEB8-363B-4142-A9F2-1CCA21A43E77.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -780,15 +780,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651359195.53540206</real>
+			<real>651434881.78200901</real>
 			<key>timeStoppedRecording</key>
-			<real>651359221.33460104</real>
+			<real>651434906.11653495</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>AD371EFF-0A3A-4720-93EB-91EC66F318A9</string>
+			<string>8B99EEB8-363B-4142-A9F2-1CCA21A43E77</string>
 		</dict>
-		<key>B9F56EEC-C93B-469C-A7EE-5FD9DF4ACAA6</key>
+		<key>8BE81C0C-AAD7-4547-BDB0-AE696A11F784</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -797,7 +797,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B9F56EEC-C93B-469C-A7EE-5FD9DF4ACAA6.xcactivitylog</string>
+			<string>8BE81C0C-AAD7-4547-BDB0-AE696A11F784.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -814,15 +814,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651345021.32026696</real>
+			<real>651425795.24332798</real>
 			<key>timeStoppedRecording</key>
-			<real>651345046.66135705</real>
+			<real>651425808.54537404</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>B9F56EEC-C93B-469C-A7EE-5FD9DF4ACAA6</string>
+			<string>8BE81C0C-AAD7-4547-BDB0-AE696A11F784</string>
 		</dict>
-		<key>BB1981D6-1A0A-4999-AC55-8CEE26E138C2</key>
+		<key>8C6B285A-FB8E-4D53-BD5A-C441467C49EE</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -831,7 +831,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BB1981D6-1A0A-4999-AC55-8CEE26E138C2.xcactivitylog</string>
+			<string>8C6B285A-FB8E-4D53-BD5A-C441467C49EE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -848,15 +848,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651356543.491189</real>
+			<real>651432718.64777505</real>
 			<key>timeStoppedRecording</key>
-			<real>651356558.64941001</real>
+			<real>651432810.67226601</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>BB1981D6-1A0A-4999-AC55-8CEE26E138C2</string>
+			<string>8C6B285A-FB8E-4D53-BD5A-C441467C49EE</string>
 		</dict>
-		<key>BCFC11D6-038F-4BA5-91E8-F4407731E8D8</key>
+		<key>8F8AB2A9-1DED-4368-94B8-B04E9FA3BDB3</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -865,7 +865,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BCFC11D6-038F-4BA5-91E8-F4407731E8D8.xcactivitylog</string>
+			<string>8F8AB2A9-1DED-4368-94B8-B04E9FA3BDB3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -882,15 +882,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651360325.35672903</real>
+			<real>651425263.78882003</real>
 			<key>timeStoppedRecording</key>
-			<real>651360352.11792004</real>
+			<real>651425293.41195405</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>BCFC11D6-038F-4BA5-91E8-F4407731E8D8</string>
+			<string>8F8AB2A9-1DED-4368-94B8-B04E9FA3BDB3</string>
 		</dict>
-		<key>C0F019A5-3DD9-44FA-89A9-5E9D11ACA186</key>
+		<key>9E592C9C-D475-47F2-A951-BC8060FEE1BF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -899,7 +899,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>C0F019A5-3DD9-44FA-89A9-5E9D11ACA186.xcactivitylog</string>
+			<string>9E592C9C-D475-47F2-A951-BC8060FEE1BF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -916,15 +916,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651360254.50028706</real>
+			<real>651436167.76481402</real>
 			<key>timeStoppedRecording</key>
-			<real>651360269.04436302</real>
+			<real>651436181.84292901</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>C0F019A5-3DD9-44FA-89A9-5E9D11ACA186</string>
+			<string>9E592C9C-D475-47F2-A951-BC8060FEE1BF</string>
 		</dict>
-		<key>C23E7641-860A-4C67-BEAB-A24C589D23D9</key>
+		<key>A1AC47C4-6EC8-40AB-BD90-005774886D67</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -933,7 +933,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>C23E7641-860A-4C67-BEAB-A24C589D23D9.xcactivitylog</string>
+			<string>A1AC47C4-6EC8-40AB-BD90-005774886D67.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -950,15 +950,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651344991.16157496</real>
+			<real>651436734.09827805</real>
 			<key>timeStoppedRecording</key>
-			<real>651345015.60499704</real>
+			<real>651436768.044644</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>C23E7641-860A-4C67-BEAB-A24C589D23D9</string>
+			<string>A1AC47C4-6EC8-40AB-BD90-005774886D67</string>
 		</dict>
-		<key>C39BAB7D-B94B-43AF-8278-87B8234BF801</key>
+		<key>A36281DB-1FB3-4FCC-9411-11390B4B8A6E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -967,7 +967,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>C39BAB7D-B94B-43AF-8278-87B8234BF801.xcactivitylog</string>
+			<string>A36281DB-1FB3-4FCC-9411-11390B4B8A6E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -984,15 +984,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651344946.66323197</real>
+			<real>651436134.03072</real>
 			<key>timeStoppedRecording</key>
-			<real>651344972.74239194</real>
+			<real>651436167.15825701</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>C39BAB7D-B94B-43AF-8278-87B8234BF801</string>
+			<string>A36281DB-1FB3-4FCC-9411-11390B4B8A6E</string>
 		</dict>
-		<key>D60B99A1-3C73-4ACB-8BD3-6343151375A4</key>
+		<key>A55D737B-485B-41BD-8B06-4A7917E9BEEB</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1001,7 +1001,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>D60B99A1-3C73-4ACB-8BD3-6343151375A4.xcactivitylog</string>
+			<string>A55D737B-485B-41BD-8B06-4A7917E9BEEB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1018,15 +1018,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651359797.58488202</real>
+			<real>651425184.77716005</real>
 			<key>timeStoppedRecording</key>
-			<real>651359818.83440995</real>
+			<real>651425196.99796903</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>D60B99A1-3C73-4ACB-8BD3-6343151375A4</string>
+			<string>A55D737B-485B-41BD-8B06-4A7917E9BEEB</string>
 		</dict>
-		<key>DEFB11DC-FEA7-46D8-9F83-B2F7E2BA6B3B</key>
+		<key>AAC89544-4A8A-46E2-9613-5262E0D4011B</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1035,7 +1035,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>DEFB11DC-FEA7-46D8-9F83-B2F7E2BA6B3B.xcactivitylog</string>
+			<string>AAC89544-4A8A-46E2-9613-5262E0D4011B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1052,15 +1052,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651360037.73368502</real>
+			<real>651425053.43750894</real>
 			<key>timeStoppedRecording</key>
-			<real>651360063.18142104</real>
+			<real>651425125.07388401</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>DEFB11DC-FEA7-46D8-9F83-B2F7E2BA6B3B</string>
+			<string>AAC89544-4A8A-46E2-9613-5262E0D4011B</string>
 		</dict>
-		<key>E1B68F75-8FE7-4658-B269-0B585C6F00F8</key>
+		<key>B58656D9-9EF1-4FEB-A6A3-50CA6DB95DF3</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1069,7 +1069,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E1B68F75-8FE7-4658-B269-0B585C6F00F8.xcactivitylog</string>
+			<string>B58656D9-9EF1-4FEB-A6A3-50CA6DB95DF3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1086,15 +1086,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651360373.56884599</real>
+			<real>651424949.55235398</real>
 			<key>timeStoppedRecording</key>
-			<real>651360393.93853199</real>
+			<real>651424970.08446503</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>E1B68F75-8FE7-4658-B269-0B585C6F00F8</string>
+			<string>B58656D9-9EF1-4FEB-A6A3-50CA6DB95DF3</string>
 		</dict>
-		<key>EAE32BA0-FEB9-42FC-910C-2247EE5DBA58</key>
+		<key>BA6DEF30-ED44-46F2-AE5B-AAD3188F21DE</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1103,7 +1103,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>EAE32BA0-FEB9-42FC-910C-2247EE5DBA58.xcactivitylog</string>
+			<string>BA6DEF30-ED44-46F2-AE5B-AAD3188F21DE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1120,15 +1120,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651342890.66943502</real>
+			<real>651421586.91515005</real>
 			<key>timeStoppedRecording</key>
-			<real>651342902.41501701</real>
+			<real>651422274.73864996</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>EAE32BA0-FEB9-42FC-910C-2247EE5DBA58</string>
+			<string>BA6DEF30-ED44-46F2-AE5B-AAD3188F21DE</string>
 		</dict>
-		<key>EB679A0F-D8D4-4626-93F6-E8C6E7B6E0B7</key>
+		<key>BB27FB28-E438-4416-8711-455F37C8E689</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1137,7 +1137,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>EB679A0F-D8D4-4626-93F6-E8C6E7B6E0B7.xcactivitylog</string>
+			<string>BB27FB28-E438-4416-8711-455F37C8E689.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1154,15 +1154,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651351137.73038805</real>
+			<real>651425370.29122901</real>
 			<key>timeStoppedRecording</key>
-			<real>651351163.78481698</real>
+			<real>651425380.34913599</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>EB679A0F-D8D4-4626-93F6-E8C6E7B6E0B7</string>
+			<string>BB27FB28-E438-4416-8711-455F37C8E689</string>
 		</dict>
-		<key>F8D47E4A-C603-42C1-8AB9-AC07682ADDED</key>
+		<key>CA96EE2E-24A7-4D96-8122-13667E025B16</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1171,7 +1171,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>F8D47E4A-C603-42C1-8AB9-AC07682ADDED.xcactivitylog</string>
+			<string>CA96EE2E-24A7-4D96-8122-13667E025B16.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1188,15 +1188,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651352192.50746703</real>
+			<real>651422827.79031098</real>
 			<key>timeStoppedRecording</key>
-			<real>651352221.52691996</real>
+			<real>651423266.97347999</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>F8D47E4A-C603-42C1-8AB9-AC07682ADDED</string>
+			<string>CA96EE2E-24A7-4D96-8122-13667E025B16</string>
 		</dict>
-		<key>FE18EA01-CD6E-4A3D-B90A-4AFA2C73BC50</key>
+		<key>CFB5B9BD-0964-4B4A-8EFF-68A85F025E2E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1205,7 +1205,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>FE18EA01-CD6E-4A3D-B90A-4AFA2C73BC50.xcactivitylog</string>
+			<string>CFB5B9BD-0964-4B4A-8EFF-68A85F025E2E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1222,15 +1222,15 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651344804.53034699</real>
+			<real>651436336.64185297</real>
 			<key>timeStoppedRecording</key>
-			<real>651344854.34099805</real>
+			<real>651436355.05918598</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>FE18EA01-CD6E-4A3D-B90A-4AFA2C73BC50</string>
+			<string>CFB5B9BD-0964-4B4A-8EFF-68A85F025E2E</string>
 		</dict>
-		<key>FF2D39B6-3289-4964-861C-C4C630777D79</key>
+		<key>D45CAE54-0899-4B97-B6C4-82AA88593C4B</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1239,7 +1239,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>FF2D39B6-3289-4964-861C-C4C630777D79.xcactivitylog</string>
+			<string>D45CAE54-0899-4B97-B6C4-82AA88593C4B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1256,13 +1256,183 @@
 			<key>signature</key>
 			<string>Run TesteAline</string>
 			<key>timeStartedRecording</key>
-			<real>651351203.20515001</real>
+			<real>651433507.26995802</real>
 			<key>timeStoppedRecording</key>
-			<real>651351259.36834705</real>
+			<real>651433546.72091806</real>
 			<key>title</key>
 			<string>Run TesteAline</string>
 			<key>uniqueIdentifier</key>
-			<string>FF2D39B6-3289-4964-861C-C4C630777D79</string>
+			<string>D45CAE54-0899-4B97-B6C4-82AA88593C4B</string>
+		</dict>
+		<key>D8D1F666-55B7-49A0-8096-5C1812A5F3E5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D8D1F666-55B7-49A0-8096-5C1812A5F3E5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TesteAline project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TesteAline</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TesteAline</string>
+			<key>timeStartedRecording</key>
+			<real>651424977.98822105</real>
+			<key>timeStoppedRecording</key>
+			<real>651424990.28748798</real>
+			<key>title</key>
+			<string>Run TesteAline</string>
+			<key>uniqueIdentifier</key>
+			<string>D8D1F666-55B7-49A0-8096-5C1812A5F3E5</string>
+		</dict>
+		<key>ED1B0A47-D760-4178-B4D9-362996F4C82A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ED1B0A47-D760-4178-B4D9-362996F4C82A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TesteAline project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TesteAline</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TesteAline</string>
+			<key>timeStartedRecording</key>
+			<real>651435100.35791504</real>
+			<key>timeStoppedRecording</key>
+			<real>651435434.62608802</real>
+			<key>title</key>
+			<string>Run TesteAline</string>
+			<key>uniqueIdentifier</key>
+			<string>ED1B0A47-D760-4178-B4D9-362996F4C82A</string>
+		</dict>
+		<key>F39B0AEC-0D25-4B4B-8193-3D9213553639</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F39B0AEC-0D25-4B4B-8193-3D9213553639.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TesteAline project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TesteAline</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TesteAline</string>
+			<key>timeStartedRecording</key>
+			<real>651434828.81319201</real>
+			<key>timeStoppedRecording</key>
+			<real>651434872.13008296</real>
+			<key>title</key>
+			<string>Run TesteAline</string>
+			<key>uniqueIdentifier</key>
+			<string>F39B0AEC-0D25-4B4B-8193-3D9213553639</string>
+		</dict>
+		<key>F796D3CE-7CD6-455D-A1BA-3A4BC6F3341C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F796D3CE-7CD6-455D-A1BA-3A4BC6F3341C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TesteAline project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TesteAline</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TesteAline</string>
+			<key>timeStartedRecording</key>
+			<real>651427029.43093801</real>
+			<key>timeStoppedRecording</key>
+			<real>651427045.05104303</real>
+			<key>title</key>
+			<string>Run TesteAline</string>
+			<key>uniqueIdentifier</key>
+			<string>F796D3CE-7CD6-455D-A1BA-3A4BC6F3341C</string>
+		</dict>
+		<key>FA1656EC-D13A-4271-A7C3-CC7197FECAFA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FA1656EC-D13A-4271-A7C3-CC7197FECAFA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TesteAline project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TesteAline</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TesteAline</string>
+			<key>timeStartedRecording</key>
+			<real>651424311.70807397</real>
+			<key>timeStoppedRecording</key>
+			<real>651424345.40534198</real>
+			<key>title</key>
+			<string>Run TesteAline</string>
+			<key>uniqueIdentifier</key>
+			<string>FA1656EC-D13A-4271-A7C3-CC7197FECAFA</string>
 		</dict>
 	</dict>
 </dict>

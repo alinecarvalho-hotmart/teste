@@ -16,8 +16,11 @@
 		63ABE7AD26D28D9A00EE4E00 /* EventModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63ABE7AC26D28D9A00EE4E00 /* EventModel.swift */; };
 		63ABE7AF26D28F5A00EE4E00 /* EventViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63ABE7AE26D28F5A00EE4E00 /* EventViewModel.swift */; };
 		63ABE7B126D295DC00EE4E00 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63ABE7B026D295DC00EE4E00 /* Network.swift */; };
-		63ABE7B526D29C0100EE4E00 /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63ABE7B426D29C0100EE4E00 /* Request.swift */; };
+		63ABE7B526D29C0100EE4E00 /* EventRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63ABE7B426D29C0100EE4E00 /* EventRequest.swift */; };
 		63ABE7B826D2C1E600EE4E00 /* EventDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63ABE7B726D2C1E600EE4E00 /* EventDetailViewController.swift */; };
+		63ABE7C326D3DE6400EE4E00 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63ABE7C226D3DE6400EE4E00 /* UserModel.swift */; };
+		63ABE7C526D3E25700EE4E00 /* UserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63ABE7C426D3E25700EE4E00 /* UserViewModel.swift */; };
+		63ABE7C726D408C200EE4E00 /* UserRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63ABE7C626D408C200EE4E00 /* UserRequest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,8 +35,11 @@
 		63ABE7AC26D28D9A00EE4E00 /* EventModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventModel.swift; sourceTree = "<group>"; };
 		63ABE7AE26D28F5A00EE4E00 /* EventViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventViewModel.swift; sourceTree = "<group>"; };
 		63ABE7B026D295DC00EE4E00 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
-		63ABE7B426D29C0100EE4E00 /* Request.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
+		63ABE7B426D29C0100EE4E00 /* EventRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventRequest.swift; sourceTree = "<group>"; };
 		63ABE7B726D2C1E600EE4E00 /* EventDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventDetailViewController.swift; sourceTree = "<group>"; };
+		63ABE7C226D3DE6400EE4E00 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
+		63ABE7C426D3E25700EE4E00 /* UserViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserViewModel.swift; sourceTree = "<group>"; };
+		63ABE7C626D408C200EE4E00 /* UserRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRequest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,20 +72,55 @@
 		63ABE79726D28D4400EE4E00 /* TesteAline */ = {
 			isa = PBXGroup;
 			children = (
+				63ABE7BF26D3DBF700EE4E00 /* Request */,
+				63ABE7BE26D3DBE500EE4E00 /* View */,
+				63ABE7BC26D3DBCF00EE4E00 /* ViewModel */,
+				63ABE7BB26D3DBC700EE4E00 /* Model */,
 				63ABE79826D28D4400EE4E00 /* AppDelegate.swift */,
 				63ABE79A26D28D4400EE4E00 /* SceneDelegate.swift */,
-				63ABE79C26D28D4400EE4E00 /* EventViewController.swift */,
-				63ABE79E26D28D4400EE4E00 /* Main.storyboard */,
 				63ABE7A126D28D4500EE4E00 /* Assets.xcassets */,
 				63ABE7A326D28D4500EE4E00 /* LaunchScreen.storyboard */,
 				63ABE7A626D28D4500EE4E00 /* Info.plist */,
-				63ABE7AC26D28D9A00EE4E00 /* EventModel.swift */,
-				63ABE7AE26D28F5A00EE4E00 /* EventViewModel.swift */,
-				63ABE7B026D295DC00EE4E00 /* Network.swift */,
-				63ABE7B426D29C0100EE4E00 /* Request.swift */,
-				63ABE7B726D2C1E600EE4E00 /* EventDetailViewController.swift */,
 			);
 			path = TesteAline;
+			sourceTree = "<group>";
+		};
+		63ABE7BB26D3DBC700EE4E00 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				63ABE7AC26D28D9A00EE4E00 /* EventModel.swift */,
+				63ABE7C226D3DE6400EE4E00 /* UserModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		63ABE7BC26D3DBCF00EE4E00 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				63ABE7AE26D28F5A00EE4E00 /* EventViewModel.swift */,
+				63ABE7C426D3E25700EE4E00 /* UserViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		63ABE7BE26D3DBE500EE4E00 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				63ABE79E26D28D4400EE4E00 /* Main.storyboard */,
+				63ABE79C26D28D4400EE4E00 /* EventViewController.swift */,
+				63ABE7B726D2C1E600EE4E00 /* EventDetailViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		63ABE7BF26D3DBF700EE4E00 /* Request */ = {
+			isa = PBXGroup;
+			children = (
+				63ABE7B026D295DC00EE4E00 /* Network.swift */,
+				63ABE7B426D29C0100EE4E00 /* EventRequest.swift */,
+				63ABE7C626D408C200EE4E00 /* UserRequest.swift */,
+			);
+			path = Request;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -153,12 +194,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				63ABE79D26D28D4400EE4E00 /* EventViewController.swift in Sources */,
+				63ABE7C526D3E25700EE4E00 /* UserViewModel.swift in Sources */,
+				63ABE7C726D408C200EE4E00 /* UserRequest.swift in Sources */,
 				63ABE79926D28D4400EE4E00 /* AppDelegate.swift in Sources */,
 				63ABE7B126D295DC00EE4E00 /* Network.swift in Sources */,
 				63ABE7AD26D28D9A00EE4E00 /* EventModel.swift in Sources */,
-				63ABE7B526D29C0100EE4E00 /* Request.swift in Sources */,
+				63ABE7B526D29C0100EE4E00 /* EventRequest.swift in Sources */,
 				63ABE7AF26D28F5A00EE4E00 /* EventViewModel.swift in Sources */,
 				63ABE7B826D2C1E600EE4E00 /* EventDetailViewController.swift in Sources */,
+				63ABE7C326D3DE6400EE4E00 /* UserModel.swift in Sources */,
 				63ABE79B26D28D4400EE4E00 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

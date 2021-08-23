@@ -223,17 +223,25 @@ SWIFT_CLASS("_TtC10TesteAline11AppDelegate")
 @end
 
 @class UILabel;
+@class UITextView;
+@class UITextField;
+@class UIButton;
 @class NSString;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC10TesteAline25EventDetailViewController")
 @interface EventDetailViewController : UIViewController
-@property (nonatomic, weak) IBOutlet UILabel * _Nullable eventDate;
-@property (nonatomic, weak) IBOutlet UILabel * _Nullable eventTitle;
-@property (nonatomic, weak) IBOutlet UILabel * _Nullable eventDescription;
-@property (nonatomic, weak) IBOutlet UILabel * _Nullable eventPrice;
-- (void)viewWillAppear:(BOOL)animated;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified eventTitle;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified eventDate;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified eventPrice;
+@property (nonatomic, weak) IBOutlet UITextView * _Null_unspecified eventDescription;
+@property (nonatomic, weak) IBOutlet UITextField * _Nullable nameTextField;
+@property (nonatomic, weak) IBOutlet UITextField * _Nullable emailTextField;
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified checkinButton;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified success;
+- (IBAction)sendUserInfo:(id _Nonnull)sender;
+- (IBAction)checkIn:(id _Nonnull)sender;
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
@@ -278,6 +286,13 @@ SWIFT_CLASS("_TtC10TesteAline13SceneDelegate")
 - (void)sceneWillEnterForeground:(UIScene * _Nonnull)scene;
 - (void)sceneDidEnterBackground:(UIScene * _Nonnull)scene;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC10TesteAline13UserViewModel")
+@interface UserViewModel : NSObject
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
 #if __has_attribute(external_source_symbol)

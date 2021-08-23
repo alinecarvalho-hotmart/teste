@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		avRYhcLfk89WTTc20InXU9v2n+Y=
+		fR+T1zmA31mEqqDIATdA5gDhBG0=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		qwE4S5VMio107T74y5iB5IrMmQ8=
+		sp9lXV3UGpdOukoyuZ2ch2JSi+A=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		XgarsZ8onxCzAwrIoPdnm7I/v00=
+		oE/muNiaWOR1AsM/E3vZ+H4Ub9g=
+		</data>
+		<key>Base.lproj/Main.storyboardc/EventDetailViewController.nib</key>
+		<data>
+		HlLfHvv+YUdbvptoBVIkLIc92Uc=
 		</data>
 		<key>Base.lproj/Main.storyboardc/IVZ-Q1-BdB-view-P3s-Eb-DQX.nib</key>
 		<data>
-		cY8wEALlAqU5rjS2TPE21AYqg0A=
+		jTMyraOFljyksNS3hElfWmkSIgs=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		v06VrNmH8U32xMO/17E7qp271Qc=
+		L6UIUqqVZqwUEFwW6bBQGM8vRQ8=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-zY2-ZG-cj7.nib</key>
 		<data>
-		Hubhh/XrUH/SIs3RjroP3hOndWQ=
-		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-IVZ-Q1-BdB.nib</key>
-		<data>
-		yFDAjD1xbvICnPxQVMzZf3Cc0OA=
+		WFcjZz0Q/XJOAjJq6IqXPIerGYw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YrPN9PJRZXAYB7CDm+IZSHT+O2dDTVLAEdmgMxZl7d0=
+			X4SWflzZI7O4071gRfFAZU35kseZr3gn+lxw+Byr9ks=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ExbBNWgDQHDfzKPfqH+ga+lLafRAaoThb5rQCUjpB4A=
+			OBULFiUZTUBMFX53dFifzaKWiNXqakSk9q0S5DNcRq4=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M0TIyUiol6N8dXilwbqV7RFiiyBzMgNfvHvI7fyhUYw=
+			IG79g9aEUlG3if/aJXhFz1AVDYqhxVdupyaLmnsER2M=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/EventDetailViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m55EcwMrP7cC2pcxJo2Qxdg8fIkIV0LZ6PZtvmoRJdo=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/IVZ-Q1-BdB-view-P3s-Eb-DQX.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			70tFVF7/KUnW3FFbknIFV5kIVNBcHRdZBuHOH5ALuFY=
+			TVj4/yJReZ+pN3ItN/8WNMcGXAv+gXP1bk174CItDJk=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			05untsANcmtVh4l8rmq9bfSM5PphRNgtwbxDS5i74ik=
+			dRf14uo8iRt/o++bNP6n02+U3JcZeE6gn8Aj3qbG1nc=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UINavigationController-zY2-ZG-cj7.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sj27QzcibJpw2jU49F7OB6JDNfEcB77ngehWphvpWJQ=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-IVZ-Q1-BdB.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nHYBLtwaoQQJ8HClABspDD4rkT4CfAXT3P44eNjXMNo=
+			2vAdezelUIdDOs0hGt9YqcgHc0LQZ9scSrf/AhaIuUk=
 			</data>
 		</dict>
 	</dict>
